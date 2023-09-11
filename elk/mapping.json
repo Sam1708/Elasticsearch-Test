@@ -1,0 +1,33 @@
+{
+    "mappings": {
+        "properties": {
+            "ID": {
+                "type": "integer"
+            },
+            "Name": {
+                "type": "text"
+            },
+            "Team": {
+                "type": "text"
+            },
+            "Score": {
+                "type": "integer"
+            },
+            "Matches_Played": {
+                "type": "integer"
+            },
+            "Goals": {
+                "type": "integer"
+            },
+            "Assists": {
+                "type": "integer"
+            },
+            "Yellow_Cards": {
+                "type": "integer"
+            },
+            "Red_Cards": {
+                "type": "integer"
+            }
+        }
+    }
+}
